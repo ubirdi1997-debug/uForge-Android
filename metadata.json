@@ -1,0 +1,6 @@
+{
+  "name": "Forge Studio",
+  "description": "Mobile developer workspace with AI coding agent, file editor, terminal, preview, and tools deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
